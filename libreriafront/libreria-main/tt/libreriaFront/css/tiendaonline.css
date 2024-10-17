@@ -1,0 +1,57 @@
+.header {
+  background-color: #00bcd4;
+  padding: 0px 0px;
+  position: sticky ;
+  top: 0px;
+  
+}
+
+
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+
+.logo {
+  height: 50px;
+  max-width: 150px;
+  object-fit: contain;
+  margin-right: 15px;
+  border-radius: 10%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.fondomain{
+  background-color: #f3abd5;
+}
+.footer {
+  text-align: center; 
+  padding: 20px; 
+  background-color: #334;
+}
+
+.footer i {
+  font-size: 40px; 
+  margin: 0 15px; 
+  transition: color 0.3s ease; 
+}
+
+.footer .fi-brands-youtube {
+  color: red; 
+}
+
+.footer .fi-brands-instagram {
+  color: #E1306C; 
+}
+
+
+.footer i:hover {
+  color: cyan; 
+}
+p{color: rgb(9, 206, 206);
+}
+
+
